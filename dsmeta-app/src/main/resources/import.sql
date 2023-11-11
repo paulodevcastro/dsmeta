@@ -49,6 +49,7 @@ INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Barry Allen
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Kal-El',57,54,9126.0,'2023-01-12');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Kal-El',78,60,5253.0,'2023-01-06');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Padme',81,53,11553.0,'2023-01-04');
+
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Kal-El',168,92,6299.0,'2022-12-28');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Anakin',48,13,22411.0,'2022-12-26');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Anakin',107,67,9788.0,'2022-12-24');
@@ -115,6 +116,7 @@ INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Padme',58,4
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Kal-El',55,35,20474.0,'2022-07-05');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Anakin',84,34,5787.0,'2022-07-01');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Padme',79,68,11976.0,'2022-06-27');
+
 INSERT INTO tb_sales(seller_name, visited, deals, amount, date) VALUES ('Diana Prince', 80, 55, 9200.0, '2021-07-20');
 INSERT INTO tb_sales(seller_name, visited, deals, amount, date) VALUES ('Bruce Wayne', 120, 85, 15678.0, '2020-06-15');
 INSERT INTO tb_sales(seller_name, visited, deals, amount, date) VALUES ('Tony Stark', 65, 40, 11000.0, '2019-05-10');
